@@ -1,2 +1,2 @@
-# .github
-Qomicex-Public 组织信息
+# QomicexPublic
+Qomicex 项目公开内容
